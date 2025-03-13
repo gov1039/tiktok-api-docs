@@ -20,4 +20,4 @@ As we do not collect personal data, users do not need to request data deletion.
 
 5. Contact Us
 
-If you have any questions about our Privacy Policy, please contact us at support@yourwebsite.com.
+If you have any questions about our Privacy Policy, please contact us at https://gov1039.github.io/tiktok-api-docs/privacy.md
